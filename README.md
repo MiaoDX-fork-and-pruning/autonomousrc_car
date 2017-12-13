@@ -1,3 +1,7 @@
+# NOTE!!
+
+NOT MY WORK! Imported from [https://bitbucket.org/enddl22/autonomousrc_car.git](https://bitbucket.org/enddl22/autonomousrc_car.git), should be related to [https://www.youtube.com/watch?v=xfFewdoVVbQ](https://www.youtube.com/watch?v=xfFewdoVVbQ).
+
 ### What is this repository for? ###
 This repository provides an Ackermann type of RC car simulation environment using V-REP and ROS. There are software packages integrated in order to make this happen.
 
